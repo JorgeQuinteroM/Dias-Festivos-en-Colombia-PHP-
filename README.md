@@ -24,8 +24,8 @@ $vector_festivos_en_colombia = $ClaseDiasFestivosColombia->HallarFestivosEnAño(
 Las fechas son dadas en formato mm/dd/YYYY. 
 
 
-01/01/2019
-01/07/2019
+* 01/01/2019
+* 01/07/2019
 03/25/2019
 04/14/2019
 04/18/2019
