@@ -21,7 +21,7 @@ $vector_festivos_en_colombia = $ClaseDiasFestivosColombia->HallarFestivosEnAño(
 
 ## Respuesta
 
-Las fechas son dadas en formato mm/dd/YYYY. Para el año 2019, el codigo arroja el siguiente resultado: 
+Las fechas son dadas en formato **mm/dd/YYYY**. Para el ejemplo mostrado (año 2019), el codigo arroja el siguiente resultado: 
 
 
 * 01/01/2019
