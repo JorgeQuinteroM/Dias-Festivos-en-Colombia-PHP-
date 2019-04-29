@@ -1,5 +1,15 @@
 ```php
 
+class TratamientoFechas
+{
+  function Concatenar0Izquierda($Numero)
+  {
+    $Numero = ($Numero*10)/10;
+    $Numero = ($Numero <= 9 ? '0'.$Numero:$Numero);
+    return $Numero;
+  }
+}
+
 class DiasFestivosColombia
 {
 
