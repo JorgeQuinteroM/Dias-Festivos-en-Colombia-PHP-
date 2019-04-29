@@ -1,4 +1,5 @@
 <?php
+
 class TratamientoFechas
 {
   function Concatenar0Izquierda($Numero)
