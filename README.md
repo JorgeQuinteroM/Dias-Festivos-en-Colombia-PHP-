@@ -7,7 +7,7 @@ Libreria para hallar todos los días festivos en Colombia para PHP.
 ```php
 //LIBRERIA
 
-include ('my_libs/Festivos.php');
+include ('Festivos.php');
 
 //OBJETOS
 
