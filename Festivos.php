@@ -1,4 +1,3 @@
-```php
 
 class TratamientoFechas
 {
@@ -137,4 +136,3 @@ class DiasFestivosColombia
    
 }
 
-```
